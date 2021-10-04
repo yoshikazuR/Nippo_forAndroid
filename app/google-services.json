@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545026366837",
+    "project_id": "originalsite-1ad22",
+    "storage_bucket": "originalsite-1ad22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545026366837:android:d44a74ea61a0e7976e873c",
+        "android_client_info": {
+          "package_name": "jp.techacademy.yoshikazu.takahashi.nippoforandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545026366837-hgo0ghgnalosdp64qe21mjslgecso8th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs4zSxXgQPUruk7TQnTMk12kt6lRzGkmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545026366837-hgo0ghgnalosdp64qe21mjslgecso8th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
